@@ -1,5 +1,6 @@
 <?php
 
+
 function viewContent() {
  
     // Check if this is a post.
